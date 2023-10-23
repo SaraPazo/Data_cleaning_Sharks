@@ -150,4 +150,4 @@ SHARKS-draft.ipynb, con pruebas y trozos de código que he ido haciendo.
 https://pypi.org/project/fuzzywuzzy/ 
 
 https://pandas.pydata.org/docs/index.html
-![image](https://github.com/SaraPazo/Data_cleaning_Sharks/assets/145450939/3951496d-5e75-4f78-98d0-453ad7bf8cb3)
+
